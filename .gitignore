@@ -214,6 +214,13 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+
+venv/
+db/
+.env
+agent.log
+tickets.jsonl
+__pycache__/
 __marimo__/
 
 # Streamlit
